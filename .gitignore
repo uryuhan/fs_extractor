@@ -1,0 +1,7 @@
+financial_statement/
+*.txt
+*.md
+!Readme.md
+*.xlsx
+*.xlsb
+*.pdf
